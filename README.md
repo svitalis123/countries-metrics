@@ -57,36 +57,22 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Countries metrics] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[Countries metrics]** is a app providing detailed information on countries so as to make an informed decision either a tourist, explorer ...
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <a name="built-with">React, Redux</a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> Countries metrics is build with React and redux to provide the state management, countries API using Axios to fetch the data. 
 
 <details>
   <summary>Client</summary>
   <ul>
     <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
 </details>
 
@@ -96,9 +82,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Snapshot of the details]**
+- **[unique UI/UX incorparating material ui features]**
+- **[Use of latest React router features]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,103 +102,52 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
+> Set up your code editor
 
 ### Prerequisites
+Setup GitHub.
+Install [node](https://nodejs.org/en/)
+Install react app using   `npx create=react-app`
 
-In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 
-Clone this repository to your desired folder:
+Remove unnecessary files
+##### npm
+Install react-router-dom
+install redux
+install react-redux
+install @reduxjs/toolkit
 
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
-
-### Install
-
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
 
 ### Usage
 
 To run the project, execute the following command:
+npm start
 
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
 
 ### Run tests
 
-To run tests, run the following command:
+npm test
 
-<!--
-Example command:
 
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
 
 ### Deployment
+npm run build
 
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **Murithi Vitalis Muitwiri**
 
-👤 **Author1**
+- GitHub: [@svitalis123](https://github.com/svitalis123)
+- Twitter: [@wilsonvitalis](https://twitter.com/WilsonVitalis)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/vitalismutwiri)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -222,9 +157,8 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[New Cryptocurrency on each country]**
+- [ ] **[Login feature]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -244,7 +178,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project create an issue with your comments.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -252,9 +186,8 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+- I would like to thank [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio) for inspiring the design. 
+- [Rest Countries](https://restcountries.com/) for the API
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -262,15 +195,13 @@ I would like to thank...
 
 ## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+- **[How to use createAsyncThunk()]**
 
-- **[Question_1]**
+  - [createAsyncThunk](https://redux-toolkit.js.org/api/createAsyncThunk)
 
-  - [Answer_1]
+- **[Quicker method to install the project]**
 
-- **[Question_2]**
-
-  - [Answer_2]
+  - [Clone the project and run npm install ]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -279,7 +210,5 @@ I would like to thank...
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
