@@ -59,9 +59,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Countries metrics] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[Countries metrics]** is a app providing detailed information on countries so as to make an informed decision either a tourist, explorer ...
+> **[Countries metrics]** is a app providing detailed information on countries so as to make an informed decision either a tourist, explorer ...
 
 ## 🛠 Built With <a name="built-with">React, Redux</a>
 
@@ -80,8 +78,6 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[Snapshot of the details]**
 - **[unique UI/UX incorparating material ui features]**
 - **[Use of latest React router features]**
@@ -91,8 +87,6 @@ After you're finished please remove all the comments and instructions!
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://yourdeployedapplicationlink.com)
 
@@ -155,8 +149,6 @@ npm run build
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
 - [ ] **[New Cryptocurrency on each country]**
 - [ ] **[Login feature]**
 
@@ -175,8 +167,6 @@ Feel free to check the [issues page](../../issues/).
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
 
 If you like this project create an issue with your comments.
 
