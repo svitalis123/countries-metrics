@@ -29,11 +29,18 @@
   width: 100%;
   padding: 1rem;
   background-color: #dc4782;
-  border: none;
+  border: 1px solid #fff;
   outline: none;
+  border-radius: 1rem;
   font-family: 'Lato', sans-serif;
   font-size: 18px;
   color: #fff;
+  text-align: center;
+}
+
+.home_container_items_select::placeholder {
+  color: #fff;
+  opacity: 0.6;
 }
 
 .home_container_items_div > div:nth-of-type(even) {
