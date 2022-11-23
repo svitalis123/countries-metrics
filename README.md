@@ -1,5 +1,9 @@
 <a name="readme-top"></a>
 
+<div align="left">
+  ![]()
+</div>
+
 <!--
 HOW TO USE:
 This is an example of how you may give instructions on setting up your project locally.
@@ -59,7 +63,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Countries metrics] <a name="about-project"></a>
 
-> **[Countries metrics]** is a app providing detailed information on countries so as to make an informed decision either a tourist, explorer ...
+> **[Countries metrics]** is a app providing detailed information on [countries](https://restcountries.com/#api-endpoints-v3-region) so as to make an informed decision either a tourist, explorer ...
 
 ## 🛠 Built With <a name="built-with">React, Redux</a>
 
@@ -88,7 +92,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://lucky-tarsier-c7aeeb.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
