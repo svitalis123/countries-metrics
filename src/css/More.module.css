@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&family=Montserrat:wght@300;400;500&family=Roboto:wght@300;400;500;700&display=swap');
+
+.more_container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.more_container_link {
+  font-weight: bolder;
+  font-family: 'Lato', sans-serif;
+  font-size: 30px;
+  padding-top: 1rem;
+  padding-left: 2rem;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  text-decoration: none;
+  color: #fff;
+  animation: icon infinite 0.5s alternate-reverse;
+}
+
+@keyframes icon {
+  from {
+    padding-left: 2rem;
+  }
+
+  to {
+    padding-left: 1.5rem;
+  }
+}
+
+.more_container_main {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  color: #fff;
+  font-family: 'Lato', sans-serif;
+}

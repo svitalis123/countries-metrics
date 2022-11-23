@@ -92,9 +92,17 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://lucky-tarsier-c7aeeb.netlify.app/)
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](https://coruscating-taiyaki-9317ba.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Loom video <a name="live-demo"></a>
+
+> A video Explaining The app
+- [Loom Video](https://www.loom.com/share/9a2411e8409d42c89e45e458f1a4ce84)
 
 <!-- GETTING STARTED -->
 

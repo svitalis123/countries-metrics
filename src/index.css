@@ -5,6 +5,11 @@ html {
   padding: 0%;
 }
 
+html {
+  height: 100%;
+  background-color: #cf4278;
+}
+
 * {
   scroll-behavior: smooth;
   box-sizing: border-box;
