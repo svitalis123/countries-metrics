@@ -1,7 +1,6 @@
 <a name="readme-top"></a>
 
 <div align="left">
-  ![]()
 </div>
 
 <!--
